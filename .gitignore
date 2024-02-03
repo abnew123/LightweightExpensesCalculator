@@ -1,0 +1,15 @@
+# .gitignore
+
+# PyInstaller
+dist/
+build/
+main.spec
+
+# Python virtual environment
+venv/
+
+# macOS system files
+.DS_Store
+
+# IDE specific files
+.idea/
